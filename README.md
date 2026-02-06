@@ -87,7 +87,7 @@ User immersion through UI/UX
 
 Clone the repository
 
-git clone https://github.com/your-username/cyberdeath.git
+git clone https://github.com/your-username/cyberdeath2.0.git
 
 
 Open index.html in your browser
